@@ -1,0 +1,11 @@
+pip install langchain[all]
+pip install accelerate 
+pip install bitsnbytes
+pip install llama-index
+pip install bertopic 
+pip install weaviate-client 
+pip install InstructorEmbedding
+pip install faiss-gpu
+pip install pypdf2
+pip install rouge 
+pip install llama-cpp-python
